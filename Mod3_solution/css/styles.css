@@ -1,0 +1,44 @@
+*{
+	box-sizing: border-box;
+}
+#header-nav{
+	background-color:yellow;
+	padding:20px;
+}
+.navbar-brand{
+	font-size:3em;
+	font-weight:bold;
+	padding-left:0;
+}
+.navbar-header button.navbar-toggle,.navbar-header .icon-bar{
+	border:1px solid black;
+}
+#nav-list{
+	text-align:center;
+	font-size:2em;
+}
+#nav-list li:hover{
+	background-color:white;
+}
+h2{
+	margin-top:25px;
+	font-weight:bold;
+	font-size:3em;
+}
+
+.visible-xs{
+	background-color: red;
+}
+
+.row > div{
+	background-color: yellowgreen;
+	margin-top: 40px;
+	height:900px;
+	border: 2px solid black;
+	overflow: hidden;
+}
+
+
+h3{
+	font-weight: bold;
+}
